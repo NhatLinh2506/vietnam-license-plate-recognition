@@ -1,0 +1,42 @@
+
+# Python
+.venv/
+.venv312/
+venv/
+__pycache__/
+*.pyc
+
+# EasyOCR
+.easyocr/
+.EasyOCR/
+
+# AI models
+*.pt
+*.pth
+*.onnx
+
+# Dataset and results
+data/raw/
+data/processed/
+data/results/
+ai/datasets/
+
+# React
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+ocr_error.txt
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+.DS_Store

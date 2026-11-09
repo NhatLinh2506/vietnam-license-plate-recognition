@@ -1,0 +1,24 @@
+ .gitignore                            |   42 [32m++[m
+ README.md                             |   33 [32m+[m
+ ai/scripts/recognize_plate.py         |  336 [32m+++++++++[m
+ backend/app/__init__.py               |    0
+ backend/app/main.py                   |   61 [32m++[m
+ backend/app/services/plate_service.py |  143 [32m++++[m
+ backend/requirements.txt              |  Bin [31m0[m -> [32m4132[m bytes
+ frontend/.gitignore                   |   24 [32m+[m
+ frontend/.oxlintrc.json               |    8 [32m+[m
+ frontend/README.md                    |   16 [32m+[m
+ frontend/index.html                   |   13 [32m+[m
+ frontend/package-lock.json            | 1266 [32m+++++++++++++++++++++++++++++++++[m
+ frontend/package.json                 |   23 [32m+[m
+ frontend/public/favicon.svg           |    1 [32m+[m
+ frontend/public/icons.svg             |   24 [32m+[m
+ frontend/src/App.css                  |  126 [32m++++[m
+ frontend/src/App.jsx                  |  136 [32m++++[m
+ frontend/src/assets/hero.png          |  Bin [31m0[m -> [32m13057[m bytes
+ frontend/src/assets/react.svg         |    1 [32m+[m
+ frontend/src/assets/vite.svg          |    1 [32m+[m
+ frontend/src/index.css                |  111 [32m+++[m
+ frontend/src/main.jsx                 |   10 [32m+[m
+ frontend/vite.config.js               |    7 [32m+[m
+ 23 files changed, 2382 insertions(+)
